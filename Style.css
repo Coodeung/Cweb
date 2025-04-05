@@ -37,3 +37,6 @@ html{
 #btn1:active{
   transform: scale(1);
 }
+#intro{
+  margin-top: 95px;
+}
